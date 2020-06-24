@@ -9,9 +9,9 @@ for (let i=0;i<25;i++){
 return array
 }
 
-var whileLoop = (n) => { 
+var whileLoop = (n) => {
 while (0<=n){
-  console.log(n) 
+  console.log(n)
   n--
 }
 }
