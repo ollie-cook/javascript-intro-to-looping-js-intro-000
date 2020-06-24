@@ -10,7 +10,7 @@ return array
 }
 
 var whileLoop = (n) => {
-while (0<=n){
+while (0<n){
   console.log(n)
   n--
 }
